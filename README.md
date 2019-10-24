@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web Service : WS CORTES
 
 ## Introduccion
@@ -133,3 +134,11 @@ Se modifica el fichero **prj.properties** para añadir un parametro de configurac
 ¡MODIFICAR FICHERO **prj.properties** PARA AÑADIR LA NUEVA PROPIEDAD!
 DESCOMENTAR EL METODO **getIncidentesAveriaMasica**
 
+=======
+<<<<<<< HEAD
+# pruebaVi
+=======
+:memo: toda
+# pruebaC
+>>>>>>> remotes/origin/develop
+>>>>>>> 8f52d482cadfacd1063bd753e64b62e5709ea4ae
